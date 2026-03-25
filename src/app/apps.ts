@@ -23,7 +23,8 @@ export const apps: App[] = [
     icon: "💪",
     gradient: "from-orange-500 to-red-600",
     stack: ["Next.js", "TypeScript", "Zustand", "PWA"],
-    status: "beta",
+    status: "live",
+    url: "https://ibra-lifts.vercel.app",
   },
   {
     id: "grappling-roadmap",
